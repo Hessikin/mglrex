@@ -1,0 +1,42 @@
+{
+  "name": "discourse-geometric-theme",
+  "component": false,
+  "license_url": "",
+  "about_url": "",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "texture": "assets/texture.jpg"
+  },
+  "color_schemes": {
+    "Material REX": {
+      "primary": "fafafa",
+      "secondary": "212121",
+      "tertiary": "f93f2b",
+      "quaternary": "f93f2b",
+      "header_background": "000000",
+      "header_primary": "ffffff",
+      "highlight": "fafafa",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "geometric": {
+      "primary": "ffffff",
+      "secondary": "3f3f3f",
+      "tertiary": "ffffff",
+      "quaternary": "575151",
+      "header_background": "262833",
+      "header_primary": "262833",
+      "highlight": "000000",
+      "danger": "da723c",
+      "success": "009900",
+      "love": "91091e"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
