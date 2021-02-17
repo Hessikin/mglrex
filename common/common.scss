@@ -6,45 +6,6 @@ body {
   background-size: 1096px;
 }
 
-// Header
-// *------------------------------------------------*
-.d-header {
-//  background-color: $color-yellow;
-  background-image: $header-gradient;
-  height: 5em;
-}
-
-.menu-panel {
-  border-radius: $radius-6;
-  background-color: $color-grey;
-  .panel-body-bottom .btn:hover {
-    background: $color-red;
-  }
-  li a.widget-link .d-icon, .menu-panel li a.categories-link .d-icon {
-    color: $color-red;
-  }
-}
-
-// New Topic Button
-// *------------------------------------------------*
-#create-topic {
-  color: $color-white;
-  background-color: $color-red;
-  border-radius: $radius-2;
-  .fa {
-    color: $color-white;
-  }
-  &:hover {
-    background: $color-red;
-    color: $color-white;
-    border-radius: $radius-2;
-    box-shadow: 0 1px 8px $color-red;
-    .fa {
-      color: $color-white;
-    }
-  }
-}
-
 // Container
 // *------------------------------------------------*
 #main-outlet {
