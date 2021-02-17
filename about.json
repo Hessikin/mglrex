@@ -11,7 +11,7 @@
     "texture": "assets/texture.jpg"
   },
   "color_schemes": {
-    "Material REX": {
+    "REX": {
       "primary": "fafafa",
       "secondary": "212121",
       "tertiary": "f93f2b",
@@ -22,18 +22,10 @@
       "danger": "e45735",
       "success": "009900",
       "love": "fa6c8d"
-    },
-    "geometric": {
-      "primary": "ffffff",
-      "secondary": "3f3f3f",
-      "tertiary": "ffffff",
-      "quaternary": "575151",
-      "header_background": "262833",
-      "header_primary": "262833",
-      "highlight": "000000",
-      "danger": "da723c",
-      "success": "009900",
-      "love": "91091e"
+      "primary-high": "333333",
+      "primary-medium": "666666",
+      "primary-low-mid": "999999",
+      "primary-low": "cccccc"
     }
   },
   "modifiers": {
