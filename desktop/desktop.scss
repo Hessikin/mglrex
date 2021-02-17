@@ -13,18 +13,3 @@
   background: $secondary; 
   background-color: rgba(15,15,15,.95);
 }
-
-// Navigation Bar
-// *------------------------------------------------*
-.nav-pills li a {  
-  &.active {
-    font-weight: 500;
-    color: $color-white;
-    background: none;
-    border-bottom: 2px solid $color-red;
-  }
-  &:hover {
-    background-color: $color-red;
-    color: $color-white;
-  }
-}
