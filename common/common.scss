@@ -13,9 +13,10 @@ body textarea {
 }
 
 body {
-  background: url(https://i.imgur.com/m5i9SrO.jpg);
-  background-attachment: fixed;
-  background-size: 1096px;
+ background: url(https://i.imgur.com/m5i9SrO.jpg) center top/ 1920px auto; 
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+ background-size: cover;
 }
 
 // Container
