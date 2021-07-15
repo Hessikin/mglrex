@@ -10,6 +10,12 @@ body button,
 body select,
 body textarea {
   font-family: "RobotoMono", sans-serif;
+  
+}
+.d-header-icons {
+ .d-icon {
+    color: $color-red;
+  }
 }
 
 body {
