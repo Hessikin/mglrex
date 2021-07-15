@@ -12,6 +12,20 @@ body textarea {
   font-family: "RobotoMono", sans-serif;
 }
 
+.d-header-icons .d-icon {
+color: $color-white !important;
+}
+
+.d-header-icons a:hover {
+background-color: #789946 !important;
+color: $color-red !important;
+} 
+
+.d-header-icons a {
+background-color: #93bb54 !important;
+color: $color-cream !important;
+}
+
 body {
  background: url(https://i.imgur.com/m5i9SrO.jpg) center top/ 1920px auto; 
  background-repeat: no-repeat;
