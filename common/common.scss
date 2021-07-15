@@ -47,9 +47,9 @@ body {
   &:hover, 
   &.btn-hover {
     color: $color-white;
-    background: $color-red;
+    background: $color-grey;
     .d-icon {
-      color: $color-red;
+      color: $color-cream;
     }
   }
   &:active, 
